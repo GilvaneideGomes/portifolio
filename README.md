@@ -1,2 +1,14 @@
 # portifolio
-Construir um projeto de um site para demonstração de portfólio que pode ser adaptado para diversos serviços/produtos.
+
+Portifolio do desenvolvedor
+
+## Tarefas
+
+O controle das tarefas desse projeto será realizado no GitHub
+
+## Ícones
+
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bug
+- :checkered_flag: release
